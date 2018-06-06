@@ -6,6 +6,14 @@
 **UPDATE IN PROGRESS:** This document is undergoing a major update. Please check back later.  _Notice posted: June 5, 2018_
 {% endhint %}
 
+### Project Deliverables
+
+* **Smart Device with Photon app** that is a functional prototype of your solution design
+* **Web App** that interacts with smart device by sending and/or receiving data through Internet
+* **Product Website** that explains the solution and includes a product demo video
+* **Project Poster** that shows how the solution was created and highlights key features of its design
+* **Public Presentation** that demonstrates the solution and explains how it was created
+
 ### Project Criteria
 
 * **Innovative:** solution should be unique \(or be an improvement over existing solutions\)
@@ -21,12 +29,4 @@
 * Smart device web app coded using HTML, CSS, and JavaScript \(including ParticleJS library\)
 * Smart device prototype may have to be a smaller-scale model of actual product
 * Smart device prototype may have to simulate certain parts or actions
-
-### Project Deliverables
-
-* **Smart Device with Photon app** that is a functional prototype of your solution design
-* **Web App** that interacts with smart device by sending and/or receiving data through Internet
-* **Product Website** that explains the solution and includes a product demo video
-* **Project Poster** that shows how the solution was created and highlights key features of its design
-* **Public Presentation** that demonstrates the solution and explains how it was created
 

@@ -16,11 +16,11 @@
 
 ### Project Constraints
 
-* Smart device prototype built using parts from Photon electronics kit​
+* Smart device built using parts from SparkFun Photon electronics kit​
 * Smart device Photon app coded using Wiring programming language \(similar to Arduino\)
 * Smart device web app coded using HTML, CSS, and JavaScript \(including ParticleJS library\)
-* Smart device prototype may have to be smaller-scale model of actual product
-* Smart device prototype and apps may have to simulate certain parts or actions
+* Smart device prototype may have to be a smaller-scale model of actual product
+* Smart device prototype may have to simulate certain parts or actions
 
 ### Project Deliverables
 

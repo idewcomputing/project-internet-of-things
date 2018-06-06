@@ -9,3 +9,7 @@
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-improve-solution.md)
 * [4 Share Project with Public](project-instructions/4.-share-project-with-public.md)
 
+## Reference
+
+* [IoT Code Docs](https://docs.idew.org/code-internet-of-things/)
+

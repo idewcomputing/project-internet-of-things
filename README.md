@@ -26,7 +26,7 @@
 
 * **Smart Device with Photon app** that is a functional prototype of your solution design
 * **Web App** that interacts with smart device by sending and/or receiving data through Internet
-* **Product Website** that markets the solution and includes a product demo video
+* **Product Website** that explains the solution and includes a product demo video
 * **Project Poster** that shows how the solution was created and highlights key features of its design
 * **Public Presentation** that demonstrates the solution and explains how it was created
 

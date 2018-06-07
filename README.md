@@ -1,18 +1,24 @@
 # Project Challenge and Background
 
-
-
 {% hint style="danger" %}
 **UPDATE IN PROGRESS:** This project guidebook is undergoing a major update to replace the [old version](https://docs.idew.org/internet-of-things-project/). Please check back later.  _Notice posted: June 5, 2018_
 {% endhint %}
 
+### Project Background
+
+TK
+
+### Project Challenge
+
+![](.gitbook/assets/smart-device-system.png)
+
 ### Project Deliverables
 
-* **Smart Device with Photon app** that is a functional prototype of your solution design
-* **Web App** that interacts with smart device by sending and/or receiving data through Internet
-* **Product Website** that explains the solution and includes a product demo video
-* **Project Poster** that shows how the solution was created and highlights key features of its design
-* **Public Presentation** that demonstrates the solution and explains how it was created
+* **Smart Device** that is built and programmed to be a functional prototype of your solution design
+* **Web App** that interacts with your smart device by sending and/or receiving data through Internet
+* **Product Website** that explains your solution and includes a product demo video
+* **Project Poster** that shows how your solution was created and highlights key features of its design
+* **Public Presentation** that demonstrates your solution and explains how it was created
 
 ### Project Criteria
 

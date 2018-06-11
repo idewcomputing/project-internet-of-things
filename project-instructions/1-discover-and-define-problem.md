@@ -62,5 +62,21 @@ Example image
 {% endtab %}
 {% endtabs %}
 
+## 1.1 Assignment
 
+Brief instructions
+
+**❏ Deliverable: Description**
+
+## 1.2 Assignment
+
+Brief instructions
+
+**❏ Deliverable: Description**
+
+## 1.3 Assignment
+
+Brief instructions
+
+**❏ Deliverable: Description**
 

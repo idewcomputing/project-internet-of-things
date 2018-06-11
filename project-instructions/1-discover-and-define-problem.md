@@ -30,7 +30,7 @@ Brief instructions
 {% tab title="Examples" %}
 ## 1.1 Assignment
 
-Example image
+![](../.gitbook/assets/smart-device-system.png)
 
 ## 1.2 Assignment
 

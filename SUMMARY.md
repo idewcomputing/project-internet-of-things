@@ -14,6 +14,7 @@
 ## Reference
 
 * [IoT Code Docs](https://docs.idew.org/code-internet-of-things/)
+* [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 
 ## Examples
 

@@ -7,7 +7,7 @@ description: Which problem will you solve?
 Begin to frame the goals of your design by learning about your users and other stakeholders, the available technology, and the current practices to reach similar goals. Practice using the technology, in order to better understand its possibilities and constraints for design purposes. Consider various problems to solve. Evaluate and refine your ideas for a problem to solve through internal review and stakeholder feedback, in order to select a specific concept to target. Define the specific stakeholders, technology, and goals for a potential solution to your targeted problem.
 
 {% tabs %}
-{% tab title="Tasks" %}
+{% tab title="✓ TASKS" %}
 ## 1.1 Assignment
 
 Brief instructions
@@ -27,7 +27,7 @@ Brief instructions
 **❏ Deliverable: Description**
 {% endtab %}
 
-{% tab title="Examples" %}
+{% tab title="EXAMPLES" %}
 ## 1.1 Assignment
 
 Example image
@@ -41,7 +41,7 @@ Example image
 Example image
 {% endtab %}
 
-{% tab title="Rubrics" %}
+{% tab title="★ RUBRICS" %}
 ## 1.1 Assignment
 
 | **✓- Below Standard** | **✓ At Standard** | **✓+ Above Standard** |

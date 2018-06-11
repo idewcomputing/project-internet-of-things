@@ -7,7 +7,7 @@ description: How effective is your solution?
 Evaluate the quality and value of your solution through stakeholder testing and feedback. Analyze the evaluation data to determine how well the solution met the design goals and to identify issues that may require further improvements. As time and resources allow, implement feasible improvements.
 
 {% tabs %}
-{% tab title="Tasks" %}
+{% tab title="✓ TASKS" %}
 ## 3.1 Assignment {#2-1-assignment}
 
 Brief instructions
@@ -27,7 +27,7 @@ Brief instructions
 **❏ Deliverable: Description**
 {% endtab %}
 
-{% tab title="Examples" %}
+{% tab title="➤ EXAMPLES" %}
 ## 3.1 Assignment
 
 Example image
@@ -41,7 +41,7 @@ Example image
 Example image
 {% endtab %}
 
-{% tab title="Rubrics" %}
+{% tab title="★ RUBRICS" %}
 ## 3.1 Assignment
 
 | **✓- Below Standard** | **✓ At Standard** | **✓+ Above Standard** |

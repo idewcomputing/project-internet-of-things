@@ -27,7 +27,7 @@ Brief instructions
 **❏ Deliverable: Description**
 {% endtab %}
 
-{% tab title="◎ EXAMPLES" %}
+{% tab title="➤ EXAMPLES" %}
 ## 1.1 Assignment
 
 Example image

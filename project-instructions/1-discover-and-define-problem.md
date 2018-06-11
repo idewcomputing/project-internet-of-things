@@ -12,19 +12,19 @@ Begin to frame the goals of your design by learning about your users and other s
 
 Brief instructions
 
-Deliverable: Description
+**❏ Deliverable: Description**
 
 ## 1.2 Assignment
 
 Brief instructions
 
-Deliverable: Description
+**❏ Deliverable: Description**
 
 ## 1.3 Assignment
 
 Brief instructions
 
-Deliverable: Description
+**❏ Deliverable: Description**
 {% endtab %}
 
 {% tab title="Examples" %}

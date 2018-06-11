@@ -44,15 +44,21 @@ Example image
 {% tab title="Rubrics" %}
 ## 1.1 Assignment
 
-Rubric
+| **✓- Below Standard** | **✓ At Standard** | **✓+ Above Standard** |
+| --- | --- |
+| Description | Description | Description |
 
 ## 1.2 Assignment
 
-Rubric
+| **✓- Below Standard** | **✓ At Standard** | **✓+ Above Standard** |
+| --- | --- |
+| Description | Description | Description |
 
 ## 1.3 Assignment
 
-Rubric
+| **✓- Below Standard** | **✓ At Standard** | **✓+ Above Standard** |
+| --- | --- |
+| Description | Description | Description |
 {% endtab %}
 {% endtabs %}
 

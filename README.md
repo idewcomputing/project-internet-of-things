@@ -18,7 +18,7 @@ Code block inserted as plain text:
 </div>
 ```
 
-Code block inserted as XML/HTML:
+Code block inserted as XML/HTML/SVG:
 
 ```markup
 <!-------------- WELCOME SCREEN --------------->

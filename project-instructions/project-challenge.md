@@ -54,7 +54,7 @@ More info to come.
 * **Valuable:** your solution should be desirable and valuable to users/stakeholders
 {% endtab %}
 
-{% tab title="⚠ CONSTRAINTS" %}
+{% tab title="▲ CONSTRAINTS" %}
 * Smart device prototype built using sensors and other parts in provided IoT electronics kit​
 * Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printed, etc.\)
 * Smart device prototype may have to be a smaller-scale model of actual product

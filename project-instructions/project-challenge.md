@@ -12,7 +12,7 @@ More info to come.
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
-Each stage of the project has a set of deliverables, but they lead to the following final set of deliverables from each team:
+Each stage of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
 * **Smart Device** built and programmed to be a functional prototype of your solution design
 * **Web App** that interacts with smart device by sending and/or receiving data through internet

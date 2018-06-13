@@ -6,5 +6,21 @@
 
 More info to come: brief introduction to IoT,  design process, learning objectives, extension activities.
 
+{% tabs %}
+{% tab title="◼ INTRODUCTION" %}
+Brief introduction to topic of this project
+{% endtab %}
 
+{% tab title="➤ PROCESS" %}
+Overall design process for this project
+{% endtab %}
+
+{% tab title="✓ OBJECTIVES" %}
+Learning objectives for this project
+{% endtab %}
+
+{% tab title="★ GOING FURTHER" %}
+Wrap-around and extension activities for this project
+{% endtab %}
+{% endtabs %}
 

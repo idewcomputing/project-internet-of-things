@@ -31,3 +31,34 @@ More details to come.
 * Smart device prototype may have to be a smaller-scale model of actual product
 * Smart device prototype may have to simulate certain parts or actions for purposes of demo
 
+{% tabs %}
+{% tab title="➤ CHALLENGE" %}
+More info to come.
+
+![](../.gitbook/assets/smart-device-system.png)
+{% endtab %}
+
+{% tab title="✓ DELIVERABLES" %}
+* **Smart Device** built and programmed to be a functional prototype of your solution design
+* **Web App** that interacts with smart device by sending and/or receiving data through internet
+* **Product Website** that explains your solution and includes a product demo video
+* **Project Poster** that shows how your solution was created and highlights key features
+* **Public Presentation** that demonstrates your solution and explains how it was created
+{% endtab %}
+
+{% tab title="★ CRITERIA" %}
+* **Innovative:** your solution should be unique \(or be an improvement over existing solutions\)
+* **Feasible:** your solution should be possible to prototype with the given resources
+* **Useful:** your solution should fulfill a need, solve a problem, or improve an existing situation
+* **Usable:** your solution should be easy to understand and efficient to use
+* **Valuable:** your solution should be desirable and valuable to users/stakeholders
+{% endtab %}
+
+{% tab title="⚠ CONSTRAINTS" %}
+* Smart device prototype built using sensors and other parts in provided IoT electronics kit​
+* Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printed, etc.\)
+* Smart device prototype may have to be a smaller-scale model of actual product
+* Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could use red and blue LEDs to represent heating and cooling systems, etc.\)
+{% endtab %}
+{% endtabs %}
+

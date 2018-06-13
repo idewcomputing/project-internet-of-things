@@ -32,8 +32,8 @@ More info to come.
 
 ### Project Constraints
 
-* Smart device prototype built using sensors and other parts from provided IoT electronics kit​
+* Smart device prototype built using sensors and other parts in provided IoT electronics kit​
+* Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printing, etc.\)
 * Smart device prototype may have to be a smaller-scale model of actual product
-* Smart device prototype may have to simulate certain parts or actions \(for demo purposes\)
-* Smart device prototype can use constructed parts \(e.g., cardboard, 3D-printing, etc.\)
+* Smart device prototype may have to simulate certain parts or actions for purposes of demo
 

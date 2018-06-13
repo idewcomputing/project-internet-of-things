@@ -37,7 +37,7 @@ Each team's smart device prototype is subject to these constraints:
 * Smart device prototype built using sensors and other parts in provided IoT electronics kit​
 * Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printed, etc.\)
 * Smart device prototype may have to be a smaller-scale model of actual product
-* Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could control red and blue LEDs to represent heating and cooling systems, etc.\)
+* Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could control red and blue LEDs that represent heating and cooling systems\)
 {% endtab %}
 {% endtabs %}
 

@@ -6,31 +6,11 @@
 
 ### Project Background
 
-Code block inserted as plain text:
-
-```text
-<!-------------- WELCOME SCREEN --------------->
-<div class='screen' id='welcome-screen'>
-  <h1>Welcome to our example game!</h1>
-  <h4>You have
-    <span id='totalQuestions'>-</span> questions waiting for you.</h4>
-  <button class="start-btn">Start</button>
-</div>
-```
-
-Code block inserted as XML/HTML/SVG:
-
-```markup
-<!-------------- WELCOME SCREEN --------------->
-<div class='screen' id='welcome-screen'>
-  <h1>Welcome to our example game!</h1>
-  <h4>You have
-    <span id='totalQuestions'>-</span> questions waiting for you.</h4>
-  <button class="start-btn">Start</button>
-</div>
-```
+More info to come.
 
 ### Project Challenge
+
+More info to come.
 
 ![](.gitbook/assets/smart-device-system.png)
 
@@ -52,9 +32,8 @@ Code block inserted as XML/HTML/SVG:
 
 ### Project Constraints
 
-* Smart device built using parts from SparkFun Photon electronics kit​
-* Smart device Photon app coded using Wiring programming language \(similar to Arduino\)
-* Smart device web app coded using HTML, CSS, and JavaScript \(including ParticleJS library\)
+* Smart device prototype built using sensors and other parts from provided IoT electronics kit​
 * Smart device prototype may have to be a smaller-scale model of actual product
-* Smart device prototype may have to simulate certain parts or actions
+* Smart device prototype may have to simulate certain parts or actions \(for demo purposes\)
+* Smart device prototype can use constructed parts \(e.g., cardboard, 3D-printing, etc.\)
 

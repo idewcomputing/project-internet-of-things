@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Project Background](README.md)
+* [Project Introduction](README.md)
 
 ## Project Instructions
 

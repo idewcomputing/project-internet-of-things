@@ -22,6 +22,8 @@ Wrap-around and extension activities for this project
 {% endtab %}
 {% endtabs %}
 
+### Copyright and License
+
 Copyright © 2016-2018 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 
 Part of the [Computing by Design](https://cxd.gitbooks.io/the-cxd-framework/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)

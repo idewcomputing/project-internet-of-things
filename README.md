@@ -22,7 +22,7 @@ Wrap-around and extension activities for this project
 {% endtab %}
 {% endtabs %}
 
-### Copyright and License
+## Copyright and License
 
 Copyright © 2016-2018 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 

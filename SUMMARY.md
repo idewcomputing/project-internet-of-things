@@ -31,7 +31,11 @@
   * [3.4 Solution Refinements](project-instructions/3-evaluate-and-refine-solution/3.4-solution-refinements.md)
   * [3.5 Project Poster](project-instructions/3-evaluate-and-refine-solution/3.5-project-poster.md)
   * [3.6 Evaluation Presentation](project-instructions/3-evaluate-and-refine-solution/3.6-evaluation-presentation.md)
-* [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
+* [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
+  * [4.1 Presentation Plan](project-instructions/4-share-project-with-public/4.1-presentation-plan.md)
+  * [4.2 Individual Reflection](project-instructions/4-share-project-with-public/4.2-individual-reflection.md)
+  * [4.3 Public Presentation](project-instructions/4-share-project-with-public/4.3-public-presentation.md)
+  * [4.4 Class Celebration](project-instructions/4-share-project-with-public/4.4-class-celebration.md)
 
 ## Reference
 

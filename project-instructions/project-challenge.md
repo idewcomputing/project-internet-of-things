@@ -41,18 +41,18 @@ Each team's smart device prototype is subject to these constraints:
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}
-Each team will have 2-4 members that serve in the following roles:
+Each team will have 2-4 members that serve in one or more of these roles:
 
 * **Design Lead:** leads interaction design and evaluation of product
 * **Development Lead:** leads building and programming of product
 * **Business Lead:** leads business analysis and marketing of product
 * **Project Manager:** leads team to ensure project completed successfully
 
-Teams of 2 need to designate one person as the Design Lead and the other person as the Development Lead. The Design Lead will also serve as the Business Lead. The Development Lead will also serve as the Project Manager.
+**Teams of 2** need to designate one person as the Design Lead and the other person as the Development Lead. The Design Lead will also serve as the Business Lead, while the Development Lead will also serve as the Project Manager.
 
-Teams of 3 need to designate different people as the Design Lead, the Development Lead, and the Business Lead. The team needs to decide on one person that will also serve as the Project Manager.
+**Teams of 3** need to designate different people as the Design Lead, the Development Lead, and the Business Lead. One person will also need to serve as the Project Manager.
 
-Teams of 4 need to designate different people for each of the roles.
+**Teams of 4** need to designate different people for each role.
 {% endtab %}
 {% endtabs %}
 

@@ -39,5 +39,20 @@ Each team's smart device prototype is subject to these constraints:
 * Smart device prototype may have to be a smaller-scale model of actual product
 * Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could control red and blue LEDs that represent heating and cooling systems\)
 {% endtab %}
+
+{% tab title="◼ TEAM ROLES" %}
+Each team will have 2-4 members that serve in the following roles:
+
+* **Design Lead:** leads interaction design and evaluation of product
+* **Development Lead:** leads building and programming of product
+* **Business Lead:** leads business analysis and marketing of product
+* **Project Manager:** leads team to ensure project completed successfully
+
+Teams of 2 need to designate one person as the Design Lead and the other person as the Development Lead. The Design Lead will also serve as the Business Lead. The Development Lead will also serve as the Project Manager.
+
+Teams of 3 need to designate different people as the Design Lead, the Development Lead, and the Business Lead. The team needs to decide on one person that will also serve as the Project Manager.
+
+Teams of 4 need to designate different people for each of the roles.
+{% endtab %}
 {% endtabs %}
 

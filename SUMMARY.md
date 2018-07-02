@@ -24,7 +24,13 @@
   * [2.6 Product Website](project-instructions/2-design-and-build-solution/2.6-product-website.md)
   * [2.7 Product Video](project-instructions/2-design-and-build-solution/2.7-product-video.md)
   * [2.8 Solution Presentation](project-instructions/2-design-and-build-solution/2.8-solution-presentation.md)
-* [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
+* [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
+  * [3.1 Evaluation Plan](project-instructions/3-evaluate-and-refine-solution/3.1-evaluation-plan.md)
+  * [3.2 User Evaluations](project-instructions/3-evaluate-and-refine-solution/3.2-user-evaluations.md)
+  * [3.3 Evaluation Findings](project-instructions/3-evaluate-and-refine-solution/3.3-evaluation-findings.md)
+  * [3.4 Solution Refinements](project-instructions/3-evaluate-and-refine-solution/3.4-solution-refinements.md)
+  * [3.5 Project Poster](project-instructions/3-evaluate-and-refine-solution/3.5-project-poster.md)
+  * [3.6 Evaluation Presentation](project-instructions/3-evaluate-and-refine-solution/3.6-evaluation-presentation.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
 ## Reference

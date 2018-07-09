@@ -28,7 +28,7 @@ IoT devices typically have one or more **physical outputs** \(such as motors, et
 
 IoT devices send and/or receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input or output for IoT devices.
 
-IoT devices are designed and programmed to automate certain tasks by **processing data** from their inputs and **responding automatically** to certain conditions by acting through their outputs.
+IoT devices are programmed to automate certain tasks by **gathering and processing data** from their inputs and **responding automatically to certain conditions** by acting through their outputs.
 
 ## What made IoT possible?
 

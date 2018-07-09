@@ -27,7 +27,7 @@ Your team will need to design and program two apps that interact with each other
 
 The **device app** will gather and process data from the device’s inputs and respond automatically through the device’s outputs based on certain conditions.
 
-The **web app** will interacts with the device app by sending and receiving data through the internet. For example, the web app could be used to:
+The **web app** will interact with the device app by sending and receiving data through the internet. For example, the web app could be used to:
 
 * display data from the smart device
 * receive a notification from the smart device

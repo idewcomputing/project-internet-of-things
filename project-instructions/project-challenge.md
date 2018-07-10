@@ -44,7 +44,7 @@ At the end of the semester, all teams will demonstrate and explain their smart d
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
-Each stage of the project has a set of team deliverables, but they lead to these final deliverables from each team:
+Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
 * **Smart Device** built and programmed to be a functional prototype of your solution design
 * **Web App** that interacts with smart device by sending and receiving data through internet
@@ -57,7 +57,7 @@ Each stage of the project has a set of team deliverables, but they lead to these
 Each team's smart device prototype must meet these design criteria:
 
 * **Innovative:** your solution should be unique \(or an improvement over existing solutions\)
-* **Feasible:** your solution should be possible to prototype with the given resources
+* **Feasible:** your solution should be possible to prototype with the given materials/resources
 * **Useful:** your solution should fulfill a need, solve a problem, or improve an existing situation
 * **Usable:** your solution should be easy to understand and efficient to use
 * **Valuable:** your solution should be desirable and valuable to users/stakeholders

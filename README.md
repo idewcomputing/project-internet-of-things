@@ -12,7 +12,7 @@ A growing trend in computing is the “**Internet of Things**” \(abbreviated a
 
 ## Examples of IoT Devices
 
-Many different types of IoT devices are becoming available for consumers, businesses, industry, agriculture, healthcare, and the public sector. A few examples include:
+Many different IoT devices are becoming developed for consumers, businesses, industry, agriculture, healthcare, and the public sector. A few examples include:
 
 * Wearable devices that monitor people’s health and fitness
 * Smart thermostats that keep homes comfortable while also saving energy
@@ -26,13 +26,13 @@ IoT devices typically have one or more **physical inputs** \(such as sensors, et
 
 IoT devices typically have one or more **physical outputs** \(such as motors, etc.\) that can do something in the physical environment.
 
-IoT devices send and/or receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input or output for IoT devices.
+IoT devices send and receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input or output for IoT devices.
 
 IoT devices are programmed to automate certain tasks by **gathering and processing data** from their inputs and **responding automatically to certain conditions** by acting through their outputs.
 
 ## What made IoT possible?
 
-The “Internet of Things” is the result of advances in technology and manufacturing that have made it feasible to incorporate computing and networking technology into almost any device:
+The “Internet of Things” is the result of advances in technology and manufacturing that have made it feasible to incorporate computing and networking features into almost any device:
 
 1. **Computing parts** \(such as processors, sensors, batteries, etc.\) have become much smaller, more powerful, more energy-efficient, and more affordable.
 2. **Wireless networking** \(such as cellular, Wi-Fi, Bluetooth, etc.\) has become much faster, more energy-efficient, and more widespread.

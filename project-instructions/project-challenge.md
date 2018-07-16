@@ -6,7 +6,7 @@
 
 {% tabs %}
 {% tab title="➤ CHALLENGE" %}
-Each team must design and build an IoT device \(aka smart device\) that performs a useful task within a specific context \(such as home, school, business, etc.\). Your team must also design and code a companion web app that interacts with your smart device by sending and receiving data over the internet.
+Each team must design and build an IoT device \(aka "smart device"\) that performs a useful task within a specific context \(such as home, school, business, etc.\). Your team must also design and code a companion web app that interacts with your smart device by sending and receiving data over the internet.
 
 ![](../.gitbook/assets/smart-device-system.png)
 
@@ -17,8 +17,8 @@ Your team will build a functional prototype of your smart device using an IoT el
 The provided IoT kit has a limited number of parts, so here are some recommendations:
 
 * **Creative thinking and innovation will be required** to identify possible ways to use each part, as well as possible ways to combine parts. For example, how many different ways can you think of to use a light sensor? What other inputs or outputs could be combined with a light sensor to perform some kind of task?
-* Your smart device prototype might have to be a **smaller-scale model or a limited version** of your intended product. For example, a smart security system prototype would most likely be a smaller-scale model of what would actually be installed in a home or building.
-* If necessary, **you can simulate certain parts or actions** as long as the main task of your device can still be demonstrated. For example, a smart thermostat prototype could use red and blue LED lights to simulate \(or represent\) heating and cooling systems that are turned on and off by the device based on readings from its temperature sensor.
+* Your smart device prototype might have to be a **smaller-scale model or a limited version** of your intended product. For example, a smart security system prototype would most likely be a smaller-scale model of what would actually be installed in a home or building and might feature a limited number of sensors.
+* If necessary, **you can simulate certain parts or actions** as long as the main task of your device can still be demonstrated. For example, a smart thermostat prototype could use red and blue LED lights to simulate heating and cooling systems that are turned on and off by the device based on readings from its temperature sensor.
 * If necessary, **you can construct parts** \(using cardboard, 3D-printing, etc.\). The constructed parts could provide _functional value_ by helping the device perform its task and/or provide _aesthetic value_ by adding to the device's appearance for demonstration purposes.
 
 ## Device App and Web App
@@ -36,7 +36,7 @@ The **web app** will interact with the device app by sending and receiving data 
 * turn the smart device on or off
 * etc.
 
-## Website, Video, and Poster
+## Website, Video, Poster, and Presentation
 
 Each team will create a **product marketing website** for their smart device. The website should include a **product demo video**.
 

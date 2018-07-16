@@ -10,6 +10,8 @@
 
 A growing trend in computing is the “**Internet of Things**” \(abbreviated as: **IoT**\) – devices connected to the internet \(and/or to other devices\) which interact with the physical world by gathering, processing, and sharing data. IoT devices are also referred to as **connected devices** or as **smart devices**.
 
+![](.gitbook/assets/networked-devices.png)
+
 ## Examples of IoT Devices
 
 Many different IoT devices are becoming developed for consumers, businesses, industry, agriculture, healthcare, and the public sector. A few examples include:

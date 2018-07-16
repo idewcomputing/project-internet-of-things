@@ -12,7 +12,7 @@ Each team must design and build an IoT device \(aka "smart device"\) that perfor
 
 ## Smart Device Built Using IoT Electronics Kit
 
-Your team will build a functional prototype of your smart device using an IoT electronics kit, which contains a microcomputer with Wi-Fi capability, along with various physical inputs and outputs that can be connected. Your smart device will need to use at least one physical input \(such as sensor, button, etc.\) and at least one physical output \(such as motor, light, etc.\).
+Your team will build a functional prototype of your smart device using an IoT electronics kit, which contains a microcomputer with Wi-Fi capability, along with various physical inputs and outputs that can be connected. Your smart device will need to use **at least one physical input** \(such as sensor, button, etc.\) and **at least one physical output** \(such as motor, light, etc.\).
 
 The provided IoT kit has a limited number of parts, so here are some recommendations:
 

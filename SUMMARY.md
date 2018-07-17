@@ -6,8 +6,8 @@
 
 * [Project Challenge](project-instructions/project-challenge.md)
 * [1 Discover & Define Problem](project-instructions/1-discover-and-define-problem/README.md)
-  * [1.1 IoT Code Tutorials](project-instructions/1-discover-and-define-problem/1.1-iot-code-tutorial.md)
-  * [1.2 IoT Product Research](project-instructions/1-discover-and-define-problem/1.2-iot-product-research.md)
+  * [1.1 IoT Product Research](project-instructions/1-discover-and-define-problem/1.2-iot-product-research.md)
+  * [1.2 IoT Code Tutorials](project-instructions/1-discover-and-define-problem/1.1-iot-code-tutorial.md)
   * [1.3 Project Ideas](project-instructions/1-discover-and-define-problem/1.3-project-ideas.md)
   * [1.4 User Research](project-instructions/1-discover-and-define-problem/1.4-user-research.md)
   * [1.5 Competitive Analysis](project-instructions/1-discover-and-define-problem/1.5-competitive-analysis.md)

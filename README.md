@@ -18,7 +18,7 @@ Many different IoT devices are becoming developed for consumers, businesses, ind
 
 * Wearable devices that monitor people’s health and fitness
 * Smart thermostats that keep homes comfortable while also saving energy
-* Smart street lights that adjust based on time of day, season, and weather conditions
+* Connected street lights that adjust based on time of day, season, and weather conditions
 * Smart farming systems that monitor precise weather, soil, and crop conditions
 * etc.
 
@@ -37,7 +37,7 @@ IoT devices are programmed to automate certain tasks by **gathering and processi
 The “Internet of Things” is the result of advances in technology and manufacturing that have made it feasible to incorporate computing and networking features into almost any device:
 
 1. **Computing parts** \(such as processors, sensors, batteries, etc.\) have become much smaller, more powerful, more energy-efficient, and more affordable.
-2. **Wireless networking** \(such as cellular, Wi-Fi, Bluetooth, etc.\) has become much faster, more energy-efficient, and more widespread.
+2. **Wireless networking** \(such as cellular, Wi-Fi, Bluetooth, etc.\) has become much faster, more energy-efficient, and more widespread. While IoT devices can use a wired network connection \(such as Ethernet\), a wireless connection makes it much easier for devices to connect to the internet or another network.
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}

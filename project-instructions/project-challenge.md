@@ -4,8 +4,6 @@
 **UPDATE IN PROGRESS:** This project guidebook is undergoing a major update to replace the [old version](https://docs.idew.org/internet-of-things-project/). Please check back later. _Notice posted: June 5, 2018_
 {% endhint %}
 
-[Prerequisite Knowledge recommended for this IoT project](https://docs.idew.org/code-internet-of-things/prerequisite-knowledge)
-
 {% tabs %}
 {% tab title="➤ CHALLENGE" %}
 Each team must design and build an IoT device \(aka "smart device"\) that performs a useful task within a specific context \(such as home, school, business, etc.\). Your team must also design and code a companion web app that interacts with your smart device by sending and receiving data over the internet.

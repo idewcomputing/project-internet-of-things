@@ -36,6 +36,10 @@ The **web app** will interact with the device app by sending and receiving data 
 * turn the smart device on or off
 * etc.
 
+{% hint style="info" %}
+**FYI:** This project focuses on coding a **web app** \(using JavaScript\) that interacts with your smart device. However, it is also possible to code a [native mobile app for iOS or Android](https://docs.particle.io/guide/how-to-build-a-product/mobile-app/) \(using Objective-C, Swift, or Java\) that interacts with your smart device.
+{% endhint %}
+
 ## Website, Video, Poster, and Presentation
 
 Each team will create a **product marketing website** for their smart device. The website should include a **product demo video**.

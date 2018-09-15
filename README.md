@@ -26,7 +26,7 @@ Many different IoT devices are becoming developed for consumers, businesses, ind
 
 ## Characteristics of IoT Devices
 
-Similar to robotic devices, IoT devices follow a "sense-think-act" cycle to interact with the physical world. In addition, IoT devices "communicate" through an internet or network connection.
+Similar to robotic devices, IoT devices follow a "sense-think-act" cycle to interact with the physical world. IoT devices also "communicate" through an internet or network connection.
 
 ![](.gitbook/assets/sense-think-act-comm.png)
 

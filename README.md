@@ -26,13 +26,12 @@ Many different IoT devices are becoming developed for consumers, businesses, ind
 
 ## Characteristics of IoT Devices
 
-IoT devices typically have one or more **physical inputs** \(such as sensors, etc.\) that gather data from the physical environment.
+Similar to robotic devices, IoT devices follow a "sense-think-act" cycle to interact with the physical world. In addition, IoT devices "communicate" through an internet or network connection.
 
-IoT devices typically have one or more **physical outputs** \(such as motors, etc.\) that can do something in the physical environment.
-
-IoT devices send and receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input or output for IoT devices.
-
-IoT devices are programmed to automate certain tasks by **gathering and processing data** from their inputs and **responding automatically to certain conditions** by acting through their outputs.
+* **SENSE:**  IoT devices typically have one or more **physical inputs** \(such as sensors, etc.\) that gather data from the physical environment.
+* **THINK:**  IoT devices are programmed to analyze data from their inputs and respond automatically to certain conditions by acting through their outputs.
+* **ACT:**  IoT devices typically have one or more **physical outputs** \(such as motors, etc.\) that can do something in the physical environment.
+* **COMMUNICATE:**  IoT devices send and receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input or output for IoT devices.
 
 ## What made IoT possible?
 

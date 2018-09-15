@@ -31,7 +31,7 @@ Similar to robotic devices, IoT devices follow a "sense-think-act" cycle to inte
 ![](.gitbook/assets/sense-think-act-comm.png)
 
 * **SENSE:**  IoT devices typically have one or more **physical inputs** \(such as sensors, etc.\) that gather data from the physical environment.
-* **THINK:**  IoT devices are programmed to analyze data from their inputs and respond automatically to certain conditions by acting through their outputs.
+* **THINK:**  IoT devices are programmed to analyze data from their inputs to make decisions and respond to certain conditions by acting through their outputs.
 * **ACT:**  IoT devices typically have one or more **physical outputs** \(such as motors, etc.\) that can do something in the physical environment.
 * **COMMUNICATE:**  IoT devices send and receive data by communicating with apps, databases, or other devices through an **internet or network connection** \(which is often a wireless signal such as cellular, Wi-Fi, Bluetooth, etc.\). This data can act as a digital input \("sense"\) or as a digital output \("act"\).
 

@@ -12,7 +12,7 @@ Each team must design and build an IoT device \(aka "smart device"\) that perfor
 
 ## Smart Device Built Using IoT Electronics Kit
 
-Your team will build a functional prototype of your smart device using an IoT electronics kit, which contains a microcomputer with Wi-Fi capability, along with various physical inputs and outputs that can be connected. Your smart device will need to use **at least one physical input** \(such as sensor, button, etc.\) and **at least one physical output** \(such as motor, light, etc.\).
+Your team will build a functional prototype of your smart device using an IoT electronics kit, which contains a microcomputer with Wi-Fi capability, along with various physical inputs and outputs that can be connected. Your smart device will need to use **at least one physical input** \(such as sensor, button, etc.\) and **at least one physical output** \(such as motor, LED light, etc.\).
 
 The provided IoT kit has a limited number of parts, so here are some recommendations:
 
@@ -51,7 +51,7 @@ At the end of the semester, all teams will demonstrate and explain their smart d
 Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
 * **Smart Device** built and programmed to be a functional prototype of your solution design
-* **Web App** that interacts with smart device by sending and receiving data through internet
+* **Web App** that interacts with smart device by sending and/or receiving data through internet
 * **Product Website** that explains your solution and includes a product demo video
 * **Project Poster** that shows how your solution was created and highlights key features
 * **Public Presentation** that demonstrates your solution and explains how it was created
@@ -70,10 +70,10 @@ Each team's smart device prototype must meet these design criteria:
 {% tab title="▲ CONSTRAINTS" %}
 Each team's smart device prototype is subject to these constraints:
 
-* Smart device prototype built using sensors and other parts in provided IoT electronics kit​
-* Smart device prototype may have to be a smaller-scale model of actual product
-* Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could control red and blue LEDs that represent heating and cooling systems\)
-* Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printed, etc.\) that provide functional and/or aesthetic value
+* Smart device prototype must use at least one physical input \(sensor, button, etc.\) and at least one physical output \(motor, LED light, etc.\) from provided IoT electronics kit.
+* Smart device prototype may have to be a smaller-scale model of actual product.
+* Smart device prototype may have to simulate certain parts or actions \(e.g., smart thermostat could control red and blue LEDs that represent heating and cooling systems\).
+* Smart device prototype can include constructed parts \(e.g., cardboard, 3D-printed, etc.\) that provide functional and/or aesthetic value.
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}

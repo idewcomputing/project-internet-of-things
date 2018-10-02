@@ -16,7 +16,7 @@
   * [1.8 Interaction Storyboard](project-instructions/1-discover-and-define-problem/1.8-interaction-storyboard.md)
   * [1.9 Proposal Presentation](project-instructions/1-discover-and-define-problem/1.9-proposal-presentation.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
-  * [2.1 Project Plan](project-instructions/2-design-and-build-solution/2.1-project-plan.md)
+  * [2.1 Project Schedule](project-instructions/2-design-and-build-solution/2.1-project-schedule.md)
   * [2.2 System Model](project-instructions/2-design-and-build-solution/2.2-system-model.md)
   * [2.3 Interactive Prototype](project-instructions/2-design-and-build-solution/2.3-interactive-prototype.md)
   * [2.4 Prototype Evaluation](project-instructions/2-design-and-build-solution/2.4-prototype-evaluation.md)

@@ -37,7 +37,7 @@
   * [4.3 Public Presentation](project-instructions/4-share-project-with-public/4.3-public-presentation.md)
   * [4.4 Class Celebration](project-instructions/4-share-project-with-public/4.4-class-celebration.md)
 
-## Reference
+## References
 
 * [Particle Build \(Web IDE\)](https://build.particle.io/)
 * [IoT Code Guidebook](https://docs.idew.org/code-internet-of-things/)

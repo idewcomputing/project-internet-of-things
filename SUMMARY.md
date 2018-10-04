@@ -39,7 +39,7 @@
 
 ## Reference
 
-* [IoT Code Tutorials](https://docs.idew.org/code-internet-of-things/)
-* [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 * [Particle Build \(Web IDE\)](https://build.particle.io/)
+* [IoT Code Guidebook](https://docs.idew.org/code-internet-of-things/)
+* [Principles & Practices](https://docs.idew.org/principles-and-practices/)
 

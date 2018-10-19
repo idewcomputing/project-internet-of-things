@@ -37,5 +37,5 @@
 ## References
 
 * [IoT Code Guidebook](https://docs.idew.org/code-internet-of-things/)
-* [Principles & Practices](https://docs.idew.org/principles-and-practices/)
+* [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
 

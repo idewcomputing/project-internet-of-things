@@ -38,4 +38,5 @@
 
 * [IoT Code Guidebook](https://docs.idew.org/code-internet-of-things/)
 * [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
+* [Research Topics in Computing](https://docs.idew.org/research-topics-in-computing/)
 

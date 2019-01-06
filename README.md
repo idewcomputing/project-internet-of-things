@@ -40,7 +40,26 @@ The “Internet of Things” is the result of advances in technology and manufac
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
-Overall design process for this project
+In this project, students will collaborate in small teams to design, develop, and evaluate their own technology solutions to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes is integrated throughout the design and development process.
+
+This project is designed to follow the research-based “Gold Standard” model of Project Based Learning \(PBL\) developed by the [Buck Institute of Education](http://www.bie.org/about/what_pbl).
+
+This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times required to complete each project phase:
+
+| **Project Phase** | **Estimated Time** |
+| :--- | :--- |
+| 1 Discover & Define Problem | 6-7 weeks |
+| 2 Design & Build Solution | 5-7 weeks |
+| 3 Evaluate & Refine Solution | 2-3 weeks |
+| 4 Share Project with Public | 1-2 weeks |
+
+### Assignment Templates <a id="assignment-templates"></a>
+
+Some of the project assignments include links to Google Drive templates \(document, spreadsheet, slide presentation, drawing, etc.\). All the templates are shared as "**View Only**." Students must create a **copy** of the template in order to modify it. \(Students should **not** request edit access, as the file is a master template for all students.\)
+
+{% hint style="info" %}
+**MAKE A COPY:** To use a template, be sure you're logged in to your Google Account. From the **File** menu of the template, select **Make a copy**. Save the copy to your shared team folder in Google Drive. The copied file can now be modified.
+{% endhint %}
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}

@@ -63,17 +63,15 @@ Some of the project assignments include links to Google Drive templates \(docume
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}
-Learning objectives for this project
+This project reflects authentic principles and practices currently used in the technology industry. This project emphasizes design thinking, computational thinking, and 21st century success skills \(such as creative thinking, critical thinking, communication, and collaboration\).
 {% endtab %}
 
 {% tab title="★ GOING FURTHER" %}
-Wrap-around and extension activities for this project
+It is recommended that each student also complete one or more [research reports](https://docs.idew.org/research-topics-in-computing/) in parallel to this project. These research reports should be shared with the class \(and beyond\).
 {% endtab %}
 {% endtabs %}
 
-## Copyright and License
-
-Copyright © 2016-2018 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
+Copyright © 2016-2019 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 
 Part of the [Computing by Design](https://cxd.gitbooks.io/the-cxd-framework/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)
 

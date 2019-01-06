@@ -9,7 +9,7 @@ This phase of the project will require about 6-7 weeks to complete. Your teacher
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
 | [​1.1 IoT Product Research​](1.1-iot-product-research.md) | 5 hours | ​ | ​ |
-| [​1.2 IoT Code Tutorials](1.2-iot-code-tutorial.md)​ | 10 hours | ​ | ​ |
+| [​1.2 IoT Code Tutorials](1.2-iot-code-tutorial.md)​ | 10-15 hours | ​ | ​ |
 | [1.3 Project Ideas](1.3-project-ideas.md) | 3 hours |  |  |
 | [1.4 Competitive Analysis](1.4-competitive-analysis.md) | 3 hours |  |  |
 | [1.5 User Research](1.5-user-research.md) | 4 hours |  |  |

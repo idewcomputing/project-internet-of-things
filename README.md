@@ -10,6 +10,8 @@ A growing trend in computing is the “**Internet of Things**” \(abbreviated a
 
 ![](.gitbook/assets/networked-devices.png)
 
+## IoT Electronics Kit
+
 This project is tailored for an IoT electronics kit called the [SparkFun Inventor's Kit for Photon](https://www.sparkfun.com/products/13320). SparkFun also sells a variety of other sensors and components that can be used with the Photon kit. For example, it is highly recommended to add an [ultrasonic sensor](https://docs.idew.org/code-internet-of-things/references/physical-inputs/ultrasonic-sensor) to the kit for more design possibilities.
 
 ![SparkFun Inventor&apos;s Kit for Photon](.gitbook/assets/sparkfun-photon-kit.jpg)

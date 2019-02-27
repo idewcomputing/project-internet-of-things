@@ -10,6 +10,12 @@ A growing trend in computing is the “**Internet of Things**” \(abbreviated a
 
 ![](.gitbook/assets/networked-devices.png)
 
+This project is tailored for an IoT electronics kit called the [SparkFun Inventor's Kit for Photon](https://www.sparkfun.com/products/13320). SparkFun also sells a variety of other sensors and components that can be used with the Photon kit. For example, it is highly recommended to add an [ultrasonic sensor](https://docs.idew.org/code-robotics/references/physical-inputs/ultrasonic-sensor) to the Photon kit for more design possibilities.
+
+![SparkFun Inventor&apos;s Kit for Photon](.gitbook/assets/sparkfun-photon-kit.jpg)
+
+**However, you may use another IoT electronics kit of your choice for this project**. If the IoT kit is programmed using Arduino or Wiring, then you might be able to use \(or modify\) the existing tutorials and references in the accompanying IoT Code Guidebook \(depending on the particular components and capabilities of your IoT electronics kit\).  
+
 ## Examples of IoT Devices
 
 Many different IoT devices are becoming developed for consumers, businesses, industry, agriculture, healthcare, and the public sector. A few examples include:

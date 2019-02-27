@@ -14,7 +14,7 @@ This project is tailored for an IoT electronics kit called the [SparkFun Invento
 
 ![SparkFun Inventor&apos;s Kit for Photon](.gitbook/assets/sparkfun-photon-kit.jpg)
 
-**However, you may use another IoT electronics kit of your choice for this project**. If the IoT kit is programmed using Arduino or Wiring, then you might be able to use \(or modify\) the existing tutorials and references in the accompanying IoT Code Guidebook \(depending on the particular components and capabilities of your IoT electronics kit\).  
+**However, you may use another IoT electronics kit of your choice for this project**. If the IoT kit is programmed using Arduino or Wiring, you may be able to use \(or modify\) the tutorials and references in the accompanying [IoT Code Guidebook](https://docs.idew.org/code-internet-of-things/) \(depending on the particular components and capabilities of your IoT electronics kit\).  
 
 ## Examples of IoT Devices
 

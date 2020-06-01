@@ -29,9 +29,9 @@
   * [3.2 Solution Refinements](project-instructions/3-evaluate-and-refine-solution/3.2-solution-refinements.md)
   * [3.3 Project Poster](project-instructions/3-evaluate-and-refine-solution/3.3-project-poster.md)
   * [3.4 Evaluation Presentation](project-instructions/3-evaluate-and-refine-solution/3.4-evaluation-presentation.md)
-  * [4.1 Public Presentation](project-instructions/3-evaluate-and-refine-solution/4.1-public-presentation.md)
-  * [4.2 Project Reflection](project-instructions/3-evaluate-and-refine-solution/4.2-project-reflection.md)
-  * [4.3 Class Celebration](project-instructions/3-evaluate-and-refine-solution/4.3-class-celebration.md)
+  * [3.5 Public Presentation](project-instructions/3-evaluate-and-refine-solution/3.5-public-presentation.md)
+  * [3.6 Project Reflection](project-instructions/3-evaluate-and-refine-solution/3.6-project-reflection.md)
+  * [3.7 Class Celebration](project-instructions/3-evaluate-and-refine-solution/3.7-class-celebration.md)
 
 ## References
 

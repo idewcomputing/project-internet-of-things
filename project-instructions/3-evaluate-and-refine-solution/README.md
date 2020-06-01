@@ -14,9 +14,9 @@ This phase of the project will require about 3-4 weeks to complete. Your teacher
 | ​[3.2 Solution Refinements​](3.2-solution-refinements.md) | 5 hours | ​ | ​ |
 | ​[3.3 Project Poster](3.3-project-poster.md)​ | 5 hours | ​ | ​ |
 | ​[**3.4 Evaluation Presentation**](3.4-evaluation-presentation.md)**​** | 2 hours | ​ | ​ |
-| **​**[**4.1 Public Presentation**](4.1-public-presentation.md)**​** | 3 hours | ​ | ​ |
-| ​[4.2 Project Reflection​](4.2-project-reflection.md) | 1 hour | ​ | ​ |
-| [​4.3 Class Celebration​](4.3-class-celebration.md) | 1 hour |  |  |
+| **​**[**4.1 Public Presentation**](3.5-public-presentation.md)**​** | 3 hours | ​ | ​ |
+| ​[4.2 Project Reflection​](3.6-project-reflection.md) | 1 hour | ​ | ​ |
+| [​4.3 Class Celebration​](3.7-class-celebration.md) | 1 hour |  |  |
 
 
 

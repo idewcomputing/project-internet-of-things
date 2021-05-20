@@ -4,7 +4,7 @@
 {% tab title="➤ CHALLENGE" %}
 Each team must design and build an IoT device \(aka "smart device"\) that performs a useful task within a specific context \(such as home, school, business, etc.\). Your team must also design and code a companion web app that interacts with your smart device by sending and receiving data over the internet.
 
-![](../.gitbook/assets/smart-device-system.png)
+![](.gitbook/assets/smart-device-system.png)
 
 ## Smart Device Built Using IoT Electronics Kit
 
